@@ -1,2 +1,2 @@
-# f1_predict_ML
+# GrandPrixML
  Using Machine Learning techniques to predict the winner of F1 races.
